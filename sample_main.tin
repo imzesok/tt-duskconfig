@@ -1,0 +1,47 @@
+#session bd1 mud.dusk.org 7000
+<account>
+<password>
+#ACTION {%1 slaps you} {assist} {1}
+#action {%1 says, 'Turtle.'} {turtle} {1}
+#action {%1 says, 'Aggro.'} {aggro} {1}
+#action {%1 says, 'Trip.'} {trip;legsweep;sweep} {1}
+#action {%1 says, 'Circle.'} {circle all} {1}
+#action {%1 says, 'Chop.'} {chop all;cleave all;haymaker all} {1}
+#action {%1 says, 'Stab.'} {stab all;thrust all;jab all;punch all} {1}
+#action {%1 beckons for you to follow} {follow %1} {1}
+#action {You say, 'Trip.'} {trip all;sweep all;legsweep all} {1}
+#alias la learn all
+#alias ca circle all
+#alias 1 {'stab}
+#alias 2 {'chop}
+#alias 3 {'trip}
+#alias 4 {'circle}
+#alias 5 {'turtle}
+#alias 6 {'aggro}
+#alias , {legsweep all;sweep all;trip all}
+#ALIAS {-} {#bd1}
+#ALIAS {=} {#bd2}
+
+#session bd2 mud.dusk.org 7000
+<account>
+<password>
+#ACTION {%1 slaps you} {assist} {1}
+#action {%1 says, 'Turtle.'} {turtle} {1}
+#action {%1 says, 'Aggro.'} {aggro} {1}
+#action {%1 says, 'Trip.'} {trip;legsweep;sweep} {1}
+#action {%1 says, 'Circle.'} {circle all} {1}
+#action {%1 says, 'Chop.'} {chop all;cleave all;haymaker all} {1}
+#action {%1 says, 'Stab.'} {stab all;thrust all;jab all;punch all} {1}
+#action {%1 beckons for you to follow} {follow %1} {1}
+#action {You say, 'Trip.'} {trip all;sweep all;legsweep all} {1}
+#alias la learn all
+#alias ca circle all
+#alias 1 {'stab}
+#alias 2 {'chop}
+#alias 3 {'trip}
+#alias 4 {'circle}
+#alias 5 {'turtle}
+#alias 6 {'aggro}
+#alias , {legsweep all;sweep all;trip all}
+#ALIAS {-} {#bd1}
+#ALIAS {=} {#bd2}
