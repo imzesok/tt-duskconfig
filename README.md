@@ -18,10 +18,11 @@ If you don't already have tintin++ or the windows counter-part WinTin++, you wil
 the installer version is the best way to go for windows.  By default it'll try to install in the user's folder, I recommend you change it to something else like 'C:\WinTin++\' so that it's easy to find.
 
 
-I may add an account creation file later for the noobs, but it's pretty straight forward. the instructions for that will be basically the same for the auto-login file.  just in case here's what i'm hoping the directions will be:
+I added an account creation file for the noobs, but it's pretty straight forward. the instructions for that will be basically the same for the auto-login file.  
+Download duskconfig.zip from releases, and extract the files newbie and sample_main
 
-1.  Download file "newbie"
-2.  copy file "newbie" to ~WinTin++\bin.
+1.  Download duskconfig.zip from releases over there --> 
+2.  extract the files newbie and sample_main.tin to <path_to_WinTin++\bin>.
 3.  edit file "newbie" using your preferred text editor with desired account name and password.
 4.  Save the file.
 5.  launch WinTin
@@ -39,24 +40,24 @@ ______________________________
 The Autologin config:
 
 Method 1:
-1. Download sample_main.tin
-2. Delete main.tin from the ~WinTin++\bin folder
-3. Rename it from sample_main.tin to main.tin.
-4. move it to the ~WinTin++\bin folder.
-5. open the new main.tin file in your text editor and replace the <account> and <password> fields with your account names and passwords 
-6. Save It
-7 launch Wintin.
+
+1. Assuming you've not set up your main.tin before, Delete main.tin from the ~WinTin++\bin folder
+2. Rename it from sample_main.tin to main.tin.
+3. move it to the ~WinTin++\bin folder.
+4. open the new main.tin file in your text editor and replace the <account> and <password> fields with your account names and passwords 
+5. Save It
+6. launch Wintin.
 
 Alternatively you can just: 
 
-1. Download sample_main.tin
-2. Open it.
-3. Copy and paste it's contents into the empty main.tin file WinTin comes with.
-4. Replace the <account> and <password> fields with your account names and passwords.
-5. Then save it.  
-6. Launch the client.
+1. Open it.
+2. Copy and paste it's contents into the empty main.tin file WinTin comes with.
+3. Replace the <account> and <password> fields with your account names and passwords.
+4. Then save it.  
+5. Launch the client.
 
-I'm not your mother, and either method works. 
+I'm not your mother, and either method works, and you should find yourself with both accounts logged in.  
+I've aliased session 1 to '-' and 2 to '=' for quick switching or just passing through a command to the other character you're controlling.
 
  Hope to see you soon!  
   - Jonan/Shyanna
