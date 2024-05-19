@@ -56,7 +56,7 @@ Alternatively you can just:
 5. Then save it.  
 6. Launch the client.
 
-I'm not your mother, either and method works. 
+I'm not your mother, and either method works. 
 
  Hope to see you soon!  
   - Jonan/Shyanna
