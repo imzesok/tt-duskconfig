@@ -25,12 +25,16 @@ I may add an account creation file later for the noobs, but it's pretty straight
 3.  edit file "newbie" using your preferred text editor with desired account name and password.
 4.  Save the file.
 5.  launch WinTin
-6.  issue the command '#read newbie' (I intend this to be separate creation sessions)
-7.  quit out of the session completely by typing quit twice
-8.  repeat step 3 and 6 for making a second account with a different username and password.
-9.  Once you have completed creating the second account, repeat step 7
-10. close Wintin 
-11. continue to setting up main.tin as outlined below.
+6.  issue the command '#read newbie' (I intend this to be a separate creation session name)
+7.  From here it'll have you create your very first character. dump everything into physical save for 2 points into intelligence.  This will be your main fighter. 
+These stats set you up pretty well for berserker, taoken, brawler, staffer or gladiator which are all perfectly fine starting careers.
+8.  quit out of the session completely by typing quit twice
+9.  repeat step 3, 6, and 7 for making a second account with a different username and password.
+10.  Once you have completed creating the second account and first character for that account, repeat step 8
+11. close Wintin 
+12. continue to setting up main.tin as outlined below.
+
+______________________________
 
 The Autologin config:
 
