@@ -58,7 +58,7 @@ Alternatively you can just:
 I'm not your mother, and either method works, and you should find yourself with both accounts logged in.  
 I've aliased session 1 to '-' and 2 to '=' for quick switching or just passing through a command to the other character you're controlling.
 
-Once you've made it in the game issue "config fullscreen on" and the text should stop being a garbled mess :D 
+Once you've made it in the game, issue "config fullscreen on" and the text should stop being a garbled mess :D 
 then switch accounts and do the same for the other account.  That's it, you should be all set and ready to play. 
 
  Hope to see you soon!  
