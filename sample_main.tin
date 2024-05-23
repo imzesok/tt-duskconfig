@@ -21,6 +21,8 @@
 #alias , {legsweep all;sweep all;trip all}
 #ALIAS {-} {#bd1}
 #ALIAS {=} {#bd2}
+#alias 7 {'Rescue}
+#action {%1 says, 'Rescue.'} {rescue %1}
 
 #session bd2 mud.dusk.org 7000
 <account>
@@ -45,3 +47,5 @@
 #alias , {legsweep all;sweep all;trip all}
 #ALIAS {-} {#bd1}
 #ALIAS {=} {#bd2}
+#alias 7 {'Rescue}
+#action {%1 says, 'Rescue.'} {rescue %1}
