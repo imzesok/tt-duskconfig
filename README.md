@@ -9,7 +9,7 @@ I have multiple accounts, and so the sample reflects that by separating sessions
 
 Scope: Intended for people brand new to Dusk and MUDs as a whole. 
 ------------
-You can play the game without a client, however using a client will make things infinitely easier than managing two separate windows of a plain old terminal emulator such as putty, bash, putty, etc.   
+You can play the game without a client, however using a client will make things infinitely easier than managing two separate windows of a plain old terminal emulator such as putty, bash, puttytel, etc.   
 
 The playerbase is not as healthy as it once was, so this unfortunately necessitates occasionally running multiple characters at once, when historically there used to be dozens of players on at any time and multi-logging wasn't allowed.  
 in v8 this ban was lifted to permit 2 or 3 people to actually do the higher level runs/quests, without assistence of what used to require 4 to 8 people depending on builds.
