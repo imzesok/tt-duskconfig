@@ -1,6 +1,6 @@
 # tt-duskconfig
-tintin++ sample config for main.tin for multi-logging in the multi-user-dungeon(MUD) Blood Dusk. 
-
+tintin++ sample config for main.tin for originally intended for multi-logging in the multi-user-dungeon(MUD) Blood Dusk. 
+As of the current version(9), it is no longer permitted to use multiple accounts, so I'm updating things to reflect that.
 
 Description
 ------------
@@ -43,7 +43,7 @@ Method 1:
 1. Assuming you've not set up your main.tin before, Delete main.tin from the ~WinTin++\bin folder
 2. Rename it from sample_main.tin to main.tin.
 3. move it to the ~WinTin++\bin folder.
-4. open the new main.tin file in your text editor and replace the <account> and <password> fields with your account names and passwords 
+4. open the new main.tin file in your text editor and replace the <account> and <password> fields with your account name and password 
 5. Save It
 6. launch Wintin.
 
@@ -51,7 +51,7 @@ Alternatively you can just:
 
 1. Open it.
 2. Copy and paste it's contents into the empty main.tin file WinTin comes with.
-3. Replace the <account> and <password> fields with your account names and passwords.
+3. Replace the <account> and <password> fields with your account name and password.
 4. Then save it.  
 5. Launch the client.
 
@@ -62,4 +62,4 @@ Once you've made it in the game, issue "config fullscreen on" and the text shoul
 then switch accounts and do the same for the other account.  That's it, you should be all set and ready to play. 
 
  Hope to see you soon!  
-  - Jonan/Shyanna
+
