@@ -4,7 +4,7 @@ As of the current version(9), it is no longer permitted to use multiple accounts
 
 Description
 ------------
-It's what it says on the tin.  It's a file to setup auto-login and helpful alias' and triggers for playing the game with two accounts at the same time.  If you've not yet created your account(s), do so. You're permitted up to two accounts per person. 
+It's what it says on the tin.  It's a file to setup auto-login and helpful alias' and triggers for playing the game.  If you've not yet created your account, do so. You're permitted up to two accounts per person. 
 I have multiple accounts, and so the sample reflects that by separating sessions by #bd1 and #bd2.  This is what I hope is a pretty solid baseline.
 
 Scope: Intended for people brand new to Dusk and MUDs as a whole. 
@@ -12,7 +12,7 @@ Scope: Intended for people brand new to Dusk and MUDs as a whole.
 You can play the game without a client, however using a client will make things infinitely easier than managing two separate windows of a plain old terminal emulator such as putty, bash, puttytel, etc.   
 
 The playerbase is not as healthy as it once was, so this unfortunately necessitates occasionally running multiple characters at once, when historically there used to be dozens of players on at any time and multi-logging wasn't allowed.  
-in v8 this ban was lifted to permit 2 or 3 people to actually do the higher level runs/quests, without assistence of what used to require 4 to 8 people depending on builds.
+in v8 this ban was lifted to permit 2 or 3 people to actually do the higher level runs/quests, without assistence of what used to require 4 to 8 people depending on builds. unfortunately now the restriction has been reinstated. 
 
 If you don't already have tintin++ or the windows counter-part WinTin++, you will find tt++ in your Linux distro's repository, and on windows from this website:https://tintin.mudhalla.net/download.php
 the installer version is the best way to go for windows.  By default it'll try to install in the user's folder, I recommend you change it to something else like 'C:\WinTin++\' so that it's easy to find.
