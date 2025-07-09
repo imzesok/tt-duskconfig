@@ -1,5 +1,5 @@
 #session bd1 mud.dusk.org 7000
-<account>
+<account name>
 <password>
 #ACTION {%1 slaps you} {assist} {1}
 #action {%1 says, 'Turtle.'} {turtle} {1}
@@ -10,6 +10,12 @@
 #action {%1 says, 'Stab.'} {stab all;thrust all;jab all;punch all} {1}
 #action {%1 beckons for you to follow} {follow %1} {1}
 #action {You say, 'Trip.'} {trip all;sweep all;legsweep all} {1}
+#action {someone from the %1 'Come'} {flee %1}
+#action {You see here a basin.} {put ore basin;scan;smelt}
+#action {The material drains through the funnel and down into the trough below the smelter, where it begins to cool.} {scan;d}
+#action {You see here a stone trough} {get all trough}
+#action {%1 says, 'Rescue.'} {rescue %1}
+#ACTION {You have defeated %0} {dem all.key;dem all.mon}
 #alias la learn all
 #alias ca circle all
 #alias 1 {'stab}
@@ -19,7 +25,5 @@
 #alias 5 {'turtle}
 #alias 6 {'aggro}
 #alias , {legsweep all;sweep all;trip all}
-#ALIAS {-} {#bd1}
-#ALIAS {=} {#bd2}
+#ALIAS {mo} {move rock;move crate;move tree;move block;move brush;move stone;move altar;move rug;move map;move tile}
 #alias 7 {'Rescue}
-#action {%1 says, 'Rescue.'} {rescue %1}
