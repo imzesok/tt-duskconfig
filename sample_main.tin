@@ -10,7 +10,7 @@
 #action {%1 says, 'Stab.'} {stab all;thrust all;jab all;punch all} {1}
 #action {%1 beckons for you to follow} {follow %1} {1}
 #action {You say, 'Trip.'} {trip all;sweep all;legsweep all} {1}
-#action {someone from the %1 'Come'} {flee %1}
+#action {Someone to the %1 'Come'} {flee %1}
 #action {You see here a basin.} {put ore basin;scan;smelt}
 #action {The material drains through the funnel and down into the trough below the smelter, where it begins to cool.} {scan;d}
 #action {You see here a stone trough} {get all trough}
