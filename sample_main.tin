@@ -16,6 +16,8 @@
 #action {You see here a stone trough} {get all trough}
 #action {%1 says, 'Rescue.'} {rescue %1}
 #ACTION {You have defeated %0} {dem all.key;dem all.mon}
+#ACTION {%1 says, 'Rage.'} {rage} {8}
+#ACTION {%1 says, 'Calm.'} {calm} {1}
 #alias la learn all
 #alias ca circle all
 #alias 1 {'stab}
@@ -27,3 +29,5 @@
 #alias , {legsweep all;sweep all;trip all}
 #ALIAS {mo} {move rock;move crate;move tree;move block;move brush;move stone;move altar;move rug;move map;move tile}
 #alias 7 {'Rescue}
+#ALIAS {8} {'rage}
+#ALIAS {9} {'calm}
